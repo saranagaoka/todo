@@ -2,10 +2,10 @@ name: Piesek
 on: 
   label:
     types:
-      -created
+      - created
   push:
     branches:
-      -master   
+      - master   
 
 jobs:
   label:
